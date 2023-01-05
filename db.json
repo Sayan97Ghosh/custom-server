@@ -1,23 +1,37 @@
 {
-  "employees": [
+  
+  "cars": [
     {
       "id": 1,
-      "first_name": "Sebastian",
-      "last_name": "Eschweiler",
-      "email": "sebastian@codingthesmartway.com"
+      "brand": "Tata",
+      "year": 2019,
+			"type":"Manual",
+      "kms": 10000,
+      "Description": "Tata Altroz with all original documents",
+      "Price": 500000
     },
     {
       "id": 2,
-      "first_name": "Steve",
-      "last_name": "Palmer",
-      "email": "steve@codingthesmartway.com"
-    },
+      "brand": "Tata",
+			"type":"AMT",
+      "year": 2017,
+      "kms": 8000,
+      "Description": "Tata Nexon with all original documents",
+      "Price": 800000
+    }
+  ],
+"wishlisted_cars": [
     {
-      "id": 3,
-      "first_name": "Ann",
-      "last_name": "Smith",
-      "email": "ann@codingthesmartway.com"
+      "id": 1,
+      "brand": "Tata",
+      "year": 2019,
+			"type":"Manual",
+      "kms": 10000,
+      "Description": "Tata Altroz with all original documents",
+      "Price": 500000
     }
   ]
 }
+
+
 
